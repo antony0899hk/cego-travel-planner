@@ -1,0 +1,28 @@
+{
+  "釜山": [
+    {"name":"南浦洞","zone":"南浦","tags":["美食","購物"],"period":"上午","tested":true},
+    {"name":"松島海上纜車","zone":"松島","tags":["打卡","景點"],"period":"上午","tested":true},
+    {"name":"甘川文化村","zone":"甘川","tags":["打卡","景點"],"period":"下午","tested":true},
+    {"name":"海里海鮮午餐","zone":"影島","tags":["美食"],"period":"下午","tested":true},
+    {"name":"Momo Coffee Factory","zone":"影島","tags":["咖啡","購物"],"period":"下午","tested":true},
+    {"name":"富平罐頭市場","zone":"南浦","tags":["美食","購物"],"period":"晚上","tested":true},
+    {"name":"海雲台","zone":"海雲台","tags":["景點","打卡"],"period":"下午","tested":true},
+    {"name":"機張市場","zone":"機張","tags":["美食"],"period":"下午","tested":true},
+    {"name":"Skyline Luge","zone":"機張","tags":["景點","打卡"],"period":"上午","tested":true}
+  ],
+  "首爾": [
+    {"name":"明洞","zone":"明洞","tags":["美食","購物"],"period":"上午","tested":true},
+    {"name":"聖水洞","zone":"聖水","tags":["咖啡","打卡","購物"],"period":"下午","tested":true},
+    {"name":"東大門","zone":"東大門","tags":["美食","購物"],"period":"晚上","tested":true},
+    {"name":"HYBE 周邊","zone":"龍山","tags":["K-pop","打卡"],"period":"下午","tested":true},
+    {"name":"YG 周邊","zone":"麻浦","tags":["K-pop","打卡"],"period":"下午","tested":true}
+  ],
+  "曼谷": [
+    {"name":"Terminal 21","zone":"Asok","tags":["美食","購物"],"period":"上午","tested":true},
+    {"name":"Maliwan Thai Dessert Shop","zone":"Ari","tags":["美食","甜品"],"period":"下午","tested":true},
+    {"name":"舊城小食區","zone":"Old Town","tags":["美食","打卡"],"period":"下午","tested":true},
+    {"name":"Hidden Bar 周邊","zone":"Old Town","tags":["咖啡","美食"],"period":"晚上","tested":true},
+    {"name":"Big C","zone":"Ratchadamri","tags":["購物","手信"],"period":"晚上","tested":true},
+    {"name":"Save One Go Market","zone":"Bangkok","tags":["美食","手信"],"period":"晚上","tested":true}
+  ]
+}
