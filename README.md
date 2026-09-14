@@ -1,1 +1,20 @@
-# cego-travel-planner
+# C•E•GO Travel Planner V1
+
+核心流程：目的地 → 日數 → 預算 → 興趣 → 同行 → 節奏 → 自動生成每日行程。
+
+## V1 原則
+- 先用 CEGO 自家／已實測資料做候選
+- 先驗證「輸入偏好 → 排出合理行程」
+- 每個 project 獨立 repo、獨立網址，減少互相影響
+
+## 第一階段不做
+- 即時機票
+- 酒店預訂
+- 複雜交通最佳化
+- 即時價格
+
+## 下一步
+- 把釜山／首爾／曼谷 CEGO 資料改成正式 JSON/data provider
+- 加地圖 pin 與每日路線
+- 加景點 opening hours / 必須預約標記
+- 加 CEGO 實測優先排序
