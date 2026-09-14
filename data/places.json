@@ -1,28 +1,48 @@
 {
   "釜山": [
-    {"name":"南浦洞","zone":"南浦","tags":["美食","購物"],"period":"上午","tested":true},
-    {"name":"松島海上纜車","zone":"松島","tags":["打卡","景點"],"period":"上午","tested":true},
-    {"name":"甘川文化村","zone":"甘川","tags":["打卡","景點"],"period":"下午","tested":true},
-    {"name":"海里海鮮午餐","zone":"影島","tags":["美食"],"period":"下午","tested":true},
-    {"name":"Momo Coffee Factory","zone":"影島","tags":["咖啡","購物"],"period":"下午","tested":true},
-    {"name":"富平罐頭市場","zone":"南浦","tags":["美食","購物"],"period":"晚上","tested":true},
-    {"name":"海雲台","zone":"海雲台","tags":["景點","打卡"],"period":"下午","tested":true},
-    {"name":"機張市場","zone":"機張","tags":["美食"],"period":"下午","tested":true},
-    {"name":"Skyline Luge","zone":"機張","tags":["景點","打卡"],"period":"上午","tested":true}
+    {"name":"南浦洞","zone":"南浦","tags":["美食","購物","散步"],"period":"上午","tested":true,"source":"cego-tested","tip":"適合作為南浦／札嘎其一帶行程起點，早餐、購物、去松島都方便。","mapsQuery":"Nampo-dong Busan"},
+    {"name":"富平罐頭市場","zone":"南浦","tags":["美食","購物","夜市"],"period":"晚上","tested":true,"source":"cego-tested","tip":"夜晚去氣氛較好，適合放在南浦行程尾段。","mapsQuery":"Bupyeong Kkangtong Market Busan"},
+    {"name":"松島海上纜車","zone":"松島","tags":["打卡","景點","海景"],"period":"上午","tested":true,"source":"cego-tested","tip":"建議早一點去，之後接甘川／影島會較順路。","mapsQuery":"Songdo Cable Car Busan"},
+    {"name":"甘川文化村","zone":"甘川","tags":["打卡","景點","散步"],"period":"下午","tested":true,"source":"cego-tested","tip":"山坡樓梯多，預留步行時間；小王子與樓梯倒影位可一併安排。","mapsQuery":"Gamcheon Culture Village Busan"},
+    {"name":"白淺灘文化村","zone":"影島","tags":["打卡","海景","散步"],"period":"下午","tested":false,"source":"cego-researched","tip":"適合與影島咖啡、海鮮午餐放在同一區，減少跨區交通。","mapsQuery":"Huinnyeoul Culture Village Busan"},
+    {"name":"海里海鮮午餐","zone":"影島","tags":["美食","海鮮"],"period":"下午","tested":true,"source":"cego-tested","tip":"CEGO 實際行程中的影島海鮮午餐點，可與白淺灘／MOMO 同區安排。","mapsQuery":"Yeongdo seafood Busan"},
+    {"name":"MOMO Coffee Factory","zone":"影島","tags":["咖啡","購物","手信"],"period":"下午","tested":true,"source":"cego-tested","tip":"適合買咖啡豆；CEGO 偏好低酸，曾買約 200g 包裝。","mapsQuery":"MOMO Coffee Factory Busan"},
+    {"name":"海雲台海灘","zone":"海雲台","tags":["景點","打卡","海景"],"period":"下午","tested":true,"source":"cego-tested","tip":"可接海雲台甜品、夜間遊船或晚餐，適合做東部一整日。","mapsQuery":"Haeundae Beach Busan"},
+    {"name":"海雲台 Blue Line Park","zone":"海雲台","tags":["景點","打卡","海景"],"period":"下午","tested":false,"source":"cego-researched","tip":"膠囊列車需另外付費及留意預約，適合與海雲台同日。","mapsQuery":"Haeundae Blue Line Park"},
+    {"name":"Skyline Luge Busan","zone":"機張","tags":["景點","打卡","親子"],"period":"上午","tested":true,"source":"cego-tested","tip":"建議朝早第一站，之後再去機張市場午餐。","mapsQuery":"Skyline Luge Busan"},
+    {"name":"機張市場","zone":"機張","tags":["美食","海鮮","市場"],"period":"下午","tested":true,"source":"cego-tested","tip":"可接 Luge 後食午餐，再返回海雲台，路線較自然。","mapsQuery":"Gijang Market Busan"},
+    {"name":"海東龍宮寺","zone":"機張","tags":["景點","海景","文化"],"period":"上午","tested":true,"source":"cego-tested","tip":"CEGO 實際去過，可與機張／海雲台東線景點放同一日。","mapsQuery":"Haedong Yonggungsa Temple"},
+    {"name":"西面","zone":"西面","tags":["購物","美食","夜生活"],"period":"晚上","tested":true,"source":"cego-tested","tip":"適合夜晚逛街食飯，與南浦屬不同區，不建議短時間來回。","mapsQuery":"Seomyeon Busan"},
+    {"name":"AB Monster 西面","zone":"西面","tags":["購物","潮流","打卡"],"period":"下午","tested":false,"source":"cego-researched","tip":"若本身會去西面可順路加入，不建議單獨跨區。","mapsQuery":"AB Monster Seomyeon Busan"},
+    {"name":"釜山站 KTX","zone":"釜山站","tags":["交通","KTX"],"period":"晚上","tested":true,"source":"cego-tested","tip":"大堂電子牌通常接近開車前才顯示月台；無閘機，直接按車卡號上車。","mapsQuery":"Busan Station KTX"}
   ],
   "首爾": [
-    {"name":"明洞","zone":"明洞","tags":["美食","購物"],"period":"上午","tested":true},
-    {"name":"聖水洞","zone":"聖水","tags":["咖啡","打卡","購物"],"period":"下午","tested":true},
-    {"name":"東大門","zone":"東大門","tags":["美食","購物"],"period":"晚上","tested":true},
-    {"name":"HYBE 周邊","zone":"龍山","tags":["K-pop","打卡"],"period":"下午","tested":true},
-    {"name":"YG 周邊","zone":"麻浦","tags":["K-pop","打卡"],"period":"下午","tested":true}
+    {"name":"明洞","zone":"明洞","tags":["美食","購物","散步"],"period":"上午","tested":true,"source":"cego-tested","tip":"朝早人流較少，適合早餐後行街，再轉其他區。","mapsQuery":"Myeongdong Seoul"},
+    {"name":"聖水洞","zone":"聖水","tags":["咖啡","打卡","購物","散步"],"period":"下午","tested":true,"source":"cego-tested","tip":"文青、咖啡、品牌店集中，最好預留半日慢慢行。","mapsQuery":"Seongsu-dong Seoul"},
+    {"name":"東大門","zone":"東大門","tags":["美食","購物","夜生活"],"period":"晚上","tested":true,"source":"cego-tested","tip":"適合晚餐後繼續購物，放夜晚比日間更順。","mapsQuery":"Dongdaemun Seoul"},
+    {"name":"弘大","zone":"麻浦","tags":["購物","美食","K-pop","夜生活"],"period":"晚上","tested":false,"source":"cego-researched","tip":"可與 YG／麻浦線安排同一日，減少跨漢江來回。","mapsQuery":"Hongdae Seoul"},
+    {"name":"YG Entertainment 周邊","zone":"麻浦","tags":["K-pop","打卡"],"period":"下午","tested":false,"source":"cego-researched","tip":"K-pop 主題行程可與弘大／合井一帶合併。","mapsQuery":"YG Entertainment Seoul"},
+    {"name":"HYBE Insight 周邊","zone":"龍山","tags":["K-pop","打卡"],"period":"下午","tested":false,"source":"cego-researched","tip":"適合 K-pop 粉絲路線，可與龍山／漢江北岸行程配搭。","mapsQuery":"HYBE Seoul Yongsan"},
+    {"name":"南大門市場","zone":"明洞","tags":["美食","市場","購物"],"period":"上午","tested":false,"source":"cego-researched","tip":"與明洞距離近，可合併做早上市場＋購物路線。","mapsQuery":"Namdaemun Market Seoul"},
+    {"name":"廣藏市場","zone":"鐘路","tags":["美食","市場"],"period":"下午","tested":false,"source":"cego-researched","tip":"以小食為主，適合午餐／下午茶，不必單獨預留整日。","mapsQuery":"Gwangjang Market Seoul"},
+    {"name":"景福宮","zone":"鐘路","tags":["景點","文化","打卡"],"period":"上午","tested":false,"source":"cego-researched","tip":"早上安排較舒服，可與北村／鐘路同區。","mapsQuery":"Gyeongbokgung Palace Seoul"},
+    {"name":"首爾站","zone":"首爾站","tags":["交通","KTX","機場"],"period":"上午","tested":true,"source":"cego-tested","tip":"KTX／AREX 轉乘的重要節點，適合放在抵達或離開日。","mapsQuery":"Seoul Station"},
+    {"name":"仁川機場 T2","zone":"仁川","tags":["機場","交通"],"period":"上午","tested":true,"source":"cego-tested","tip":"Korean Air 常用 T2；離境前可預留時間處理 SES／零食／退稅等。","mapsQuery":"Incheon Airport Terminal 2"}
   ],
   "曼谷": [
-    {"name":"Terminal 21","zone":"Asok","tags":["美食","購物"],"period":"上午","tested":true},
-    {"name":"Maliwan Thai Dessert Shop","zone":"Ari","tags":["美食","甜品"],"period":"下午","tested":true},
-    {"name":"舊城小食區","zone":"Old Town","tags":["美食","打卡"],"period":"下午","tested":true},
-    {"name":"Hidden Bar 周邊","zone":"Old Town","tags":["咖啡","美食"],"period":"晚上","tested":true},
-    {"name":"Big C","zone":"Ratchadamri","tags":["購物","手信"],"period":"晚上","tested":true},
-    {"name":"Save One Go Market","zone":"Bangkok","tags":["美食","手信"],"period":"晚上","tested":true}
+    {"name":"BKK 素萬那普機場 Grab 上車區","zone":"BKK","tags":["交通","機場","Grab"],"period":"上午","tested":true,"source":"cego-tested","tip":"國際線出關在 2 樓；Call Grab 要落 1 樓，並睇清楚 App 顯示 A/B/C/D 分區。","mapsQuery":"Suvarnabhumi Airport Bangkok"},
+    {"name":"Airport Rail Link BKK","zone":"BKK","tags":["交通","機場"],"period":"上午","tested":true,"source":"cego-tested","tip":"不想塞車時可作市區交通選擇，之後可再接 BTS/MRT。","mapsQuery":"Suvarnabhumi Airport Rail Link"},
+    {"name":"Terminal 21 Asok","zone":"Asok","tags":["美食","購物","商場"],"period":"上午","tested":true,"source":"cego-tested","tip":"Asok 交通方便，適合落機後／轉車前做輕鬆行程。","mapsQuery":"Terminal 21 Asok Bangkok"},
+    {"name":"Asok 換錢／市區補給","zone":"Asok","tags":["換錢","交通","購物"],"period":"上午","tested":true,"source":"cego-tested","tip":"需要現金時可先在 Asok 一帶處理，再開始行程。","mapsQuery":"Asok Bangkok"},
+    {"name":"Maliwan Thai Dessert Shop","zone":"Ari","tags":["美食","甜品","手信"],"period":"下午","tested":true,"source":"cego-tested","tip":"Ari 甜品點，可與附近散步、咖啡放同一段行程。","mapsQuery":"Maliwan Thai Dessert Shop Bangkok"},
+    {"name":"Yong Thong Muan","zone":"Ari","tags":["美食","甜品","手信"],"period":"下午","tested":true,"source":"cego-tested","tip":"椰子蛋卷／Thong Muan 類手信，可與 Maliwan 一起安排。","mapsQuery":"Yong Thong Muan Bangkok"},
+    {"name":"Ari 咖啡區","zone":"Ari","tags":["咖啡","散步","打卡"],"period":"下午","tested":true,"source":"cego-tested","tip":"適合慢慢行，不建議與舊城區同一個半日硬塞。","mapsQuery":"Ari Bangkok coffee"},
+    {"name":"舊城小食區","zone":"Old Town","tags":["美食","打卡","散步"],"period":"下午","tested":true,"source":"cego-tested","tip":"小店較集中，適合邊行邊食；可與 Hidden Bar 周邊合併。","mapsQuery":"Bangkok Old Town food"},
+    {"name":"Hidden Bar 周邊","zone":"Old Town","tags":["咖啡","美食","夜生活"],"period":"晚上","tested":true,"source":"cego-tested","tip":"CEGO 實際到訪區域，可延伸附近咖啡豆、奶茶及特色小食。","mapsQuery":"Bangkok Old Town bars"},
+    {"name":"Big C Ratchadamri","zone":"Ratchadamri","tags":["購物","手信","超市"],"period":"晚上","tested":true,"source":"cego-tested","tip":"適合行程尾段一次過掃零食／手信，避免全日拎住。","mapsQuery":"Big C Ratchadamri Bangkok"},
+    {"name":"Save One Go Market","zone":"Bangkok","tags":["美食","手信","夜市"],"period":"晚上","tested":true,"source":"cego-tested","tip":"CEGO 曾在此買三角形椰汁糕，可列入夜市／手信路線。","mapsQuery":"Save One Go Market Bangkok"},
+    {"name":"泰式奶茶補給點","zone":"Old Town","tags":["美食","飲品"],"period":"下午","tested":true,"source":"cego-tested","tip":"舊城行程中可插入作短休，不用獨立跨區。","mapsQuery":"Thai milk tea Bangkok Old Town"},
+    {"name":"曼谷咖啡豆採購","zone":"Old Town","tags":["咖啡","購物","手信"],"period":"下午","tested":true,"source":"cego-tested","tip":"CEGO 曾買 227g 咖啡豆；偏好 medium／較低酸取向。","mapsQuery":"coffee roastery Bangkok Old Town"},
+    {"name":"Ratchadamri／CentralWorld 一帶","zone":"Ratchadamri","tags":["購物","美食","商場"],"period":"下午","tested":true,"source":"cego-tested","tip":"可與 Big C 連成一段購物路線，夜晚再一次過買手信。","mapsQuery":"CentralWorld Bangkok"}
   ]
 }
